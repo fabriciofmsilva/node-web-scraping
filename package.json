@@ -1,0 +1,25 @@
+{
+  "name": "node-web-scraping",
+  "version": "1.0.0",
+  "description": "A simple Node web-scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciofmsilva/node-web-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabriciofmsilva/node-web-scraping/issues"
+  },
+  "homepage": "https://github.com/fabriciofmsilva/node-web-scraping#readme",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "nightmare": "^3.0.2"
+  }
+}
